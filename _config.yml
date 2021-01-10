@@ -1,11 +1,10 @@
 # Site settings
 
 title: Techie at Heart
-description: >- # this means to ignore newlines until "baseurl:"
+description: DevOps | FOSS
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://techieatheart.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: 
 
 # Build settings
 remote_theme: matthiaslischka/jekyll-uno  
@@ -13,11 +12,10 @@ remote_theme: matthiaslischka/jekyll-uno
 author:
   name: 'Siddharth Singh'
   email: s.sid0401@gmail.com
-  #twitter_username: matthiaslischka
-  #facebook_username: joshgerdes
   github_username:  techieatheart
-  # linkedin_username:  matthiaslischka
-  
+  linkedin_username:  singhsid01
+  #twitter_username: matthiaslischka
+
 defaults:
   -
     scope:
