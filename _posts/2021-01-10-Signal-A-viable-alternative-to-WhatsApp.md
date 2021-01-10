@@ -20,7 +20,7 @@ All was going good, when in February of 2014, Facebook announced the acquisition
 
 ## But how did WhatsApp make money?
 
-WhatsApp founders never wanted to monetize the app. They were pro-freeware, always put user's choices first and hence were against advertisements which according to them would ruin the user experience and app interface. So, to keep the app running they came up with a model of charging an annual fee of $1 from the users. The fact that they had some good rounds of funding from ex Yahoo friends and Sequioa, took care of the 50 member team of WhatsApp. Also, as we know, users weren't even charged $1 in some countries. :)
+WhatsApp founders never wanted to monetize the app. They were pro-freeware, always put user's choices first and hence were against advertisements which according to them would ruin the user experience and app interface. So, to keep the app running they came up with a model of charging an annual fee of $1 from the users. The fact that they had some good rounds of funding from ex Yahoo friends and Sequioa, took care of the 50 member team of WhatsApp. Also, as we know, users weren't even charged $1 in some countries. :-)
 
 ## The acquisition aftermath
 
@@ -33,13 +33,13 @@ Jan Koum soon followed and just like that the duo came out of the jungle. [This]
 
 Brian made sure he stood for the right thing and announced $50 million to the Signal Foundation - The foundation behind the trending app 'Signal'. For those who don't know:
 
-#### Signal is a privacy-first, open source, cross-platform messenger app of an independent non-profit org. It directly competes with the likes of WhatsApp, Telegram, FB Messenger etc.
+_##### Signal is a privacy-first, open source, cross-platform messenger app of an independent non-profit org. It directly competes with the likes of WhatsApp, Telegram, FB Messenger etc._
 
 ## Present Conundrum
 
 On 4 Jan 2021, after WhatsApp announced its new Privacy Policy, there has been great chaos in the userbase. 
 
-> Starting 08 February 2021, it will start sharing information like phone numbers, location, transactional details, status, 'about' information, device information, IP addresses, metadata etc with Facebook. 
+**Starting 08 February 2021, it will start sharing information like phone numbers, location, transactional details, status, 'about' information, device information, IP addresses, metadata etc with Facebook.**
 
 The reasoning given by them is: ensuring better security, fighting spams and enhancing User Experience. The fact that the new policy is a blackmail of sorts, since if the users want to continue using WhatsApp, they **HAVE** to accept the policy or simply get kicked out. 
 
@@ -47,18 +47,19 @@ This has left a lot of users like me, scratching heads! Looking for an alternati
 
 ### But Sid, what if Signal also turns out to be evil in the end? What if they are bought by some company down the line and end result is all the same?
 
-Well, here is an answer from [u/signal_app](https://www.reddit.com/user/signal_app/) on reddit:
+Well, here is an answer from the creators themselves. [u/signal_app](https://www.reddit.com/user/signal_app/) on reddit:
 
 >First, we've designed the app from the ground up to not know anything about anything. Unlike other apps, we don't have access to your contacts, your groups, your messages, your images, your searches, etc. So we don't have access to any of your data to begin with, even if we wanted to do something with it (which we don't).
 >
 >Second, we've structured the project as a non-profit entity, so it can never be bought, has no investors, and isn't "owned" by anyone. We did this because we wanted to be "for" something other than profit, and we wanted to make sure the organization was only incentivized to create something that is in the best interest of the people who depend on it.
 
-__ [NOTE: For the technical ones] __
-### What prevents Singal from changing the non-profit status?
+__NOTE: For the technical ones (Credits: a reddit user)__
 
->There is no incentive for Signal Foundation to loose non-profit status. That would be a "corporate suicide" for it.
+### What prevents Signal from changing the non-profit status?
+
+>There is no incentive for Signal Foundation to lose non-profit status. That would be a "corporate suicide" for it.
 >Even if the Signal Foundation turned evil and changed its non-profit status, it would immediately loose its assets. The source code would be available under GPL V3, so anyone would be able to fork and distribute the "good" Signal. The Foundation does not have much user data or means to collect user data. All employees (less than 40 people) are basically privacy and security activists, who would leave the company the moment it goes sour.
 
 With the picture made clear now (I hope), I leave you with a great infographic comparing some of these apps:
 
-<img src="/assets/posts/Signal-A-viable-alternative-to-WhatsApp/Infographic.jpg" alt="App Comparision" width="300px" height="250px">
+![App Comparision](/assets/posts/Signal-A-viable-alternative-to-WhatsApp/Infographic.jpg)
