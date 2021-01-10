@@ -33,7 +33,7 @@ Jan Koum soon followed and just like that the duo came out of the jungle. [This]
 
 Brian made sure he stood for the right thing and announced $50 million to the Signal Foundation - The foundation behind the trending app 'Signal'. For those who don't know:
 
-**_Signal is a privacy-first, open source, cross-platform messenger app made by an independent non-profit org. It directly competes with the likes of WhatsApp, Telegram, FB Messenger etc. Everything from chat messages to metadata is encrypted by default and then users create a Signal PIN to make sure their information is fully secure_**
+**_Signal is a privacy-first, open source, cross-platform messenger app made by an independent non-profit org. Everything from chat messages to metadata is encrypted by default and users will soon have a choice to register with usernames (phone numbers currently). Signal directly competes with the likes of WhatsApp, Telegram, FB Messenger etc._**
 
 ## Present Conundrum
 
