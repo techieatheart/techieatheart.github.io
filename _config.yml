@@ -2,10 +2,11 @@
 
 title: Siddharth Singh
 description: 'D&nbsp;e&nbsp;v&nbsp;O&nbsp;p&nbsp;s&nbsp;&nbsp;|&nbsp;&nbsp;F&nbsp;O&nbsp;S&nbsp;S'
-  
+
+disqus_shortname: 'techieatheart'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://techieatheart.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-disqus_shortname: 'techieatheart'
+
 
 # Build settings
 remote_theme: matthiaslischka/jekyll-uno  
