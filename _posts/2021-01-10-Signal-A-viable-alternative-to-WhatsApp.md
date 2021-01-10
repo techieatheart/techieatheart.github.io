@@ -2,6 +2,7 @@
 title: Signal - A viable alternative to WhatsApp?
 layout: post
 tags: [FOSS]
+comments: true
 ---
 
 By now, most of us must be aware of the updated WhatsApp [policy](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=en) dated 04 Jan 2021. Credits to [Elon's tweet](https://twitter.com/elonmusk/status/1347165127036977153) for blowing it up. So, this piece is for you to know what the chatter is all about and decide whether you should board this hype train.
