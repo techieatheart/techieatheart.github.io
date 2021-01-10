@@ -33,7 +33,7 @@ Jan Koum soon followed and just like that the duo came out of the jungle. [This]
 
 Brian made sure he stood for the right thing and announced $50 million to the Signal Foundation - The foundation behind the trending app 'Signal'. For those who don't know:
 
-**_Signal is a privacy-first, open source, cross-platform messenger app made by an independent non-profit org. It directly competes with the likes of WhatsApp, Telegram, FB Messenger etc._**
+**_Signal is a privacy-first, open source, cross-platform messenger app made by an independent non-profit org. It directly competes with the likes of WhatsApp, Telegram, FB Messenger etc. Everything from chat messages to metadata is encrypted by default and then users create a Signal PIN to make sure their information is fully secure_**
 
 ## Present Conundrum
 
@@ -41,7 +41,13 @@ On 4 Jan 2021, after WhatsApp announced its new Privacy Policy, there has been g
 
 **Starting 08 February 2021, it will start sharing information like phone numbers, location, transactional details, status, 'about' information, device information, IP addresses, metadata etc with Facebook.**
 
-WhatsApp's reasoning: ensuring better security, fighting spams and enhancing User Experience. The fact is that the new policy is a blackmail of sorts, since if the users want to continue using WhatsApp, they **HAVE** to accept the policy or simply get left behind. 
+### How are they going to use all this data? How does it affect me?
+
+WhatsApp's reasoning: ensuring better security, fighting spams and enhancing User Experience.
+
+Let's be honest for a minute here. With bombardment of ads in every kind of medium such as social media, youtube, emails, e-commerce websites, sms, in-app ads, people are growing tired of it. **The one place users want sanctity is private chatting applications**. Companies these days do 'user profiling' based on the inputs they collect. Collected data is used to establish segments which are uniquely categorized and then specific marketing campaigns are run on users in that particular segment. 
+
+Looking at history of facebook, where do you think all this leads to? Ads! And guess what? Facebook announced WhatsApp Status ads at FMC in 2019. Moreover, the fact is that the new policy is a blackmail of sorts, since if the users want to continue using WhatsApp, they **HAVE** to accept the policy or simply get left behind. 
 
 This has left a lot of users like me, scratching heads! Looking for an alternative is tough since most of our friends and family are tied to WhatsApp and many of them simply wouldn't leave. For the logical ones, mind you, Signal has emerged as a **GREAT** alternative. With influential personalities like Musk, Edward Snowden tweeting about it, there has been a massive surge in the downloads of Signal (_top trending in many countries_), so much that their servers couldn't keep up with the scale out  (everything good now :P). I say, try it out (maybe run it in parallel). By now you may be surprised by how many contacts have shifted base.
 
