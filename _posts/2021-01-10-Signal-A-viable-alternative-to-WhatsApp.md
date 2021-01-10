@@ -70,4 +70,6 @@ With the picture made clear now (I hope), I leave you with a great infographic c
 
 ![App Comparision](/assets/posts/Signal-A-viable-alternative-to-WhatsApp/Infographic.jpg)
 
+---
+
 Peace 
