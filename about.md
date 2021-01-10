@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Techie at Heart
 permalink: /about/
 robots: noindex
 ---
