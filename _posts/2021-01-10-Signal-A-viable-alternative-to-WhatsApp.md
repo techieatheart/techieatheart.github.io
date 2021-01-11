@@ -69,7 +69,7 @@ __NOTE: For the technical ones (Credits: a reddit user)__
 
 With the picture made clear now (I hope), I leave you with a great infographic comparing some of these apps:
 
-![App Comparision](/assets/posts/Signal-A-viable-alternative-to-WhatsApp/Infographic.jpg)
+![App Comparision](/assets/posts/Signal-A-viable-alternative-to-WhatsApp/comparision.jpg)
 
 ---
 
